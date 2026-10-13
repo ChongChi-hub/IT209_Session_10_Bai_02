@@ -1,0 +1,12 @@
+{
+  "name": "ex2-backend",
+  "version": "1.0.0",
+  "description": "Session 10 Homework 2 Backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
